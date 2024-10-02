@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx tsx ./index.ts"
+  },
+  "dependencies": {
+    "tsx": "^4.19.1"
+  }
+}
